@@ -1,9 +1,9 @@
 <template>
   <ul class="copyright">
     <li class="footer">
-      GitHub:
-      <a href="https://github.com/xiaowansm5" target="_blank"
-        >xiaowansm5</a>
+    
+      <a href="https://blog.w2aa.ga" target="_blank"
+        >时光's Blog</a>. All rights reserved.
     </li>
   </ul>
 </template>
