@@ -6,12 +6,12 @@ export const navBarItem = [
   },
   {
     title: '短链接',
-    link: 'https://s.ops.ci',
+    link: 'https://s.w2aa.ga',
     target: '_blank',
   },
   {
     title: 'GitHub',
-    link: 'https://github.com/stilleshan/subweb',
+    link: 'https://github.com/xiaowansm5',
     target: '_blank',
   },
 ];
