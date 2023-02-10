@@ -3,8 +3,7 @@
     <li class="footer">
       GitHub:
       <a href="https://github.com/xiaowansm5" target="_blank"
-        >xiaowansm5/a
-      >
+        >xiaowansm5</a>
     </li>
   </ul>
 </template>
